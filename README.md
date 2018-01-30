@@ -1,0 +1,5 @@
+# MazeAI
+maze AI for CS365
+
+INSTRUCTIONS TO RUN:
+  
